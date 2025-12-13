@@ -1,22 +1,108 @@
-Omiai账号
+# OmiaiBOT 🤖
 
-  
-Omiai是一款日本知名的婚恋交友软件，用户可以通过创建Omiai账号来寻找自己的另一半。在Omiai上，用户可以根据个人资料、兴趣爱好、地域以及对另一半的期望，进行筛选匹配，以便找到更适合自己的对象。
+![OmiaiBOT](https://img.shields.io/badge/Version-1.0.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
-  
-<h2>注册Omiai账号</h2>
+Welcome to the **OmiaiBOT** repository! This project focuses on the buying and selling of Omiai accounts, as well as providing services related to receiving verification codes for these accounts. Below, you will find all the necessary information to get started with the bot, including installation, usage, and features.
 
-注册Omiai账号非常简单，用户只需要下载Omiai应用并进行手机验证，填写个人资料和照片，即可成功注册账号。注册完成后，用户可以根据自己的需求设置个人资料和匹配条件，开始寻找心仪的对象。
+## Table of Contents
 
- 
-<h2>Omiai账号的优势</h2>
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
-Omiai致力于提供安全、真实的交友环境，通过审核系统和实名认证，确保用户的信息真实可靠。此外，Omiai还提供了便捷的沟通工具和个性化的匹配推荐，帮助用户轻松找到自己的另一半。
+## Introduction
 
+Omiai is a popular matchmaking platform that allows users to connect with potential partners. The **OmiaiBOT** streamlines the process of managing accounts on this platform. With this bot, you can easily buy, sell, and manage your Omiai accounts without the hassle of manual operations.
 
-<h2>Omiai账号的使用注意事项</h2>
+## Features
 
-在使用Omiai账号时，用户应注意保护个人隐私，谨慎对待陌生人的交流。同时，建议用户在相互了解后，选择安全可靠的地点进行见面，以确保自身安全。此外，如果遇到不良行为或者有任何疑问，可以随时向官方客服求助。
+- **Account Management**: Easily buy and sell Omiai accounts.
+- **Code Receiving**: Automatically receive verification codes for account verification.
+- **User-Friendly Interface**: Simple commands for efficient management.
+- **Multi-Account Support**: Manage multiple accounts seamlessly.
 
+## Installation
 
-总之，Omiai账号是一个值得信赖的婚恋交友平台，通过注册Omiai账号，用户可以有更多机会找到自己的另一半，建立美满幸福的恋爱关系。
+To get started with **OmiaiBOT**, you need to download the latest release. You can find the releases [here](https://github.com/zaosck222/omiaiBOT/releases). 
+
+Once you have downloaded the file, execute it to set up the bot on your system.
+
+### Prerequisites
+
+Before running the bot, ensure you have the following installed:
+
+- Python 3.x
+- pip (Python package installer)
+
+### Step-by-Step Installation
+
+1. **Download the latest release** from the [Releases section](https://github.com/zaosck222/omiaiBOT/releases).
+2. **Extract the files** to your desired directory.
+3. **Install required packages**:
+   Open your terminal and run the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the bot**:
+   Execute the main script with:
+   ```bash
+   python main.py
+   ```
+
+## Usage
+
+Once you have installed **OmiaiBOT**, you can start using it to manage your accounts. Here are some basic commands to get you started:
+
+### Basic Commands
+
+- **Buy Account**: 
+  ```bash
+  buy <username>
+  ```
+- **Sell Account**: 
+  ```bash
+  sell <username>
+  ```
+- **Receive Code**: 
+  ```bash
+  receive <username>
+  ```
+
+### Example
+
+Here’s a simple example of how to buy an account:
+
+```bash
+buy john_doe
+```
+
+The bot will handle the transaction and notify you once the account is yours.
+
+## Contributing
+
+We welcome contributions to **OmiaiBOT**! If you want to help improve the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Create a pull request.
+
+Please ensure your code adheres to our coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **Email**: support@omiaiBOT.com
+- **GitHub**: [zaosck222](https://github.com/zaosck222)
+
+Thank you for your interest in **OmiaiBOT**! For updates and new features, please check the [Releases section](https://github.com/zaosck222/omiaiBOT/releases) regularly.
